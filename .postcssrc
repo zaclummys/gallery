@@ -1,0 +1,13 @@
+{
+    "modules": true,
+
+    "plugins": {
+        "postcss-modules": {
+            "camelCase": true
+        },
+
+        "postcss-preset-env": {
+            "browsers": "> .5% or last 2 versions"
+        }
+    }
+}
