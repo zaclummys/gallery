@@ -36,29 +36,29 @@ module.exports={"fullscreen-image":"_fullscreen-image_dkj1i_1",fullscreenImage:"
 },{"react":"1n8/","./../image/image":"n+bH","./fullscreen-image.css":"5sBd"}],"tAYG":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=n;var e=i(require("react")),t=i(require("./../image-list/image-list")),r=i(require("./../image-item/image-item")),l=i(require("./../selection/selection")),u=i(require("./../fullscreen-image/fullscreen-image"));function i(e){return e&&e.__esModule?e:{default:e}}function n(i){var n=i.images;return e.default.createElement(l.default,null,function(l){var i=l.select,a=l.deselect,c=l.selected;return e.default.createElement("div",null,c&&e.default.createElement(u.default,{image:c,onClick:function(){return a()}}),e.default.createElement(t.default,{images:n},function(t,l){return e.default.createElement(r.default,{key:l,image:t,onClick:function(){return i(t)}})}))})}
 },{"react":"1n8/","./../image-list/image-list":"QSVJ","./../image-item/image-item":"oft0","./../selection/selection":"tGiJ","./../fullscreen-image/fullscreen-image":"i9Yn"}],"9THa":[function(require,module,exports) {
-module.exports="/image-1.35e5168e.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-1.35e5168e.jpg";
 },{}],"odII":[function(require,module,exports) {
-module.exports="/image-2.90b48ea2.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-2.90b48ea2.jpg";
 },{}],"qYE0":[function(require,module,exports) {
-module.exports="/image-3.cfea6798.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-3.cfea6798.jpg";
 },{}],"BwT1":[function(require,module,exports) {
-module.exports="/image-4.b99dd6c1.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-4.b99dd6c1.jpg";
 },{}],"j1c4":[function(require,module,exports) {
-module.exports="/image-5.b56548d3.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-5.b56548d3.jpg";
 },{}],"QmxS":[function(require,module,exports) {
-module.exports="/image-6.177e0aca.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-6.177e0aca.jpg";
 },{}],"N3C4":[function(require,module,exports) {
-module.exports="/image-7.58771aa4.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-7.58771aa4.jpg";
 },{}],"8NoI":[function(require,module,exports) {
-module.exports="/image-8.612ea3ef.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-8.612ea3ef.jpg";
 },{}],"7b2Z":[function(require,module,exports) {
-module.exports="/image-9.e0fd1cab.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-9.e0fd1cab.jpg";
 },{}],"rHvC":[function(require,module,exports) {
-module.exports="/image-10.79ea4721.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-10.79ea4721.jpg";
 },{}],"Fp/I":[function(require,module,exports) {
-module.exports="/image-11.f04dc149.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-11.f04dc149.jpg";
 },{}],"DyU/":[function(require,module,exports) {
-module.exports="/image-12.c2044e85.jpg";
+module.exports="https://zaclummys.github.io/gallery/dist/image-12.c2044e85.jpg";
 },{}],"DOJi":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e=p(require("./../images/image-1.jpg")),a=p(require("./../images/image-2.jpg")),i=p(require("./../images/image-3.jpg")),g=p(require("./../images/image-4.jpg")),r=p(require("./../images/image-5.jpg")),u=p(require("./../images/image-6.jpg")),m=p(require("./../images/image-7.jpg")),t=p(require("./../images/image-8.jpg")),d=p(require("./../images/image-9.jpg")),s=p(require("./../images/image-10.jpg")),l=p(require("./../images/image-11.jpg")),f=p(require("./../images/image-12.jpg"));function p(e){return e&&e.__esModule?e:{default:e}}var j=[e.default,a.default,i.default,g.default,r.default,u.default,m.default,t.default,d.default,s.default,l.default,f.default];exports.default=j;
 },{"./../images/image-1.jpg":"9THa","./../images/image-2.jpg":"odII","./../images/image-3.jpg":"qYE0","./../images/image-4.jpg":"BwT1","./../images/image-5.jpg":"j1c4","./../images/image-6.jpg":"QmxS","./../images/image-7.jpg":"N3C4","./../images/image-8.jpg":"8NoI","./../images/image-9.jpg":"7b2Z","./../images/image-10.jpg":"rHvC","./../images/image-11.jpg":"Fp/I","./../images/image-12.jpg":"DyU/"}],"Ruo1":[function(require,module,exports) {
@@ -66,4 +66,4 @@ module.exports="/image-12.c2044e85.jpg";
 },{"react":"1n8/","./../gallery/gallery":"tAYG","./../../images":"DOJi"}],"85jU":[function(require,module,exports) {
 "use strict";var e=u(require("react")),t=u(require("react-dom")),r=u(require("./components/app/app"));function u(e){return e&&e.__esModule?e:{default:e}}t.default.render(e.default.createElement(r.default,null),document.getElementById("root"));
 },{"react":"1n8/","react-dom":"NKHc","./components/app/app":"Ruo1"}]},{},["85jU"], null)
-//# sourceMappingURL=/scripts.72c9f7ce.map
+//# sourceMappingURL=https://zaclummys.github.io/gallery/dist/scripts.72c9f7ce.map
