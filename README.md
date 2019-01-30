@@ -1,6 +1,6 @@
 # gallery
 
-A gallery that uses [Unsplash](http://unsplash.com), [React](https://github.com/facebook/react) and [Parcel](https://github.com/parcel-bundler/parcel).
+A gallery that uses [Unsplash](http://unsplash.com), [React](https://github.com/facebook/react) and [Parcel](https://github.com/parcel-bundler/parcel). [Demo](https://zaclummys.github.io/gallery/dist/index.html)
 
 ![screenshot](https://raw.githubusercontent.com/zaclummys/gallery/master/screenshot.jpg)
 
